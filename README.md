@@ -2,7 +2,6 @@
 - 👀 I’m interested in Java App Devlopment & Web Devlopment
 - 🌱 I’m currently learning Java & HTML
 - 📫 How to reach me varad.sharma2009@gmail.com
--     I'm a school student
 
 <!---
 VaradSharmaCode/VaradSharmaCode is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
