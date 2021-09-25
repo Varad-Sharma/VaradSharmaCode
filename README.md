@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @VaradSharmaCode
-- 👀 I’m interested in Java App Devlopment & Web Devlopment
-- 🌱 I’m currently learning Java & HTML
+- 👀 I’m interested in Data Science & Algorithms & Web Devlopment
+- 🌱 I’m currently learning C
 - 📫 How to reach me varad.sharma2009@gmail.com
+- Known languages C#, C++/C, HTML/CSS, Java, Python, Scratch
 
 <!---
 VaradSharmaCode/VaradSharmaCode is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
