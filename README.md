@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @VaradSharmaCode
-- 🌱 I’m currently learning JavaFX
+- 🌱 I’m currently learning 
 
 
 <!---
